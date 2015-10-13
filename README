@@ -1,0 +1,21 @@
+Course Analysis & Design of Algorithms - CS - IV - A 
+PROJECT GUIDE: N.R. PRASHANTH
+
+Sunday 21 March 2010 11:14:06 AM IST 
+
+This project was aimed at coding B+ trees for implementing numerical insertion and calculating the insertion time graph of the same. 
+
+Language used - C.
+
+1. The B+ folder contains the .pdf report and the associated c code.
+
+2. The B+ GRAPHS folder contains different linear graphs for different values of random element insertion.
+
+3. bst.ps contains the dotty output of the c code. 
+
+4. EXTRA B+ .C CODE folder contains two B+ .c codes. One which is user-interactive and the other modififed for dotty output. 
+
+
+PS: As there is error in the dotty code, we could not generate a DOTTY TREE for more than 25 elements. 
+
+Sir, we sincerely thank you for your support and motivation. 
